@@ -89,38 +89,11 @@ export default function Home() {
                  Automated verifications for invoice financing
                 </h1>
                 <p class="mt-6 text-xl text-neutral-600">
-               We're ML researchers from top schools looking into speeding up financing invoices. Accrued helps lenders get more customers.
+               We're ML researchers from top schools looking into speeding up financing invoices. Accrued helps lenders create quotes faster and process more customers.
                 </p>
               </div>
-
               <br />
               <br />
-              <div class="flex justify-between items-center">
-                <a href="https://www.kleinerperkins.com/">
-                  <img
-                    class="lazyload flex-shrink-0 object-contain h-16"
-                    src={kp}
-                  />
-                </a>
-                <a href="https://www.8vc.com/">
-                  <img
-                    class="lazyload flex-shrink-0 object-contain h-16"
-                    src={eight}
-                  />
-                </a>
-                <a href="https://squareup.com/us/en">
-                  <img
-                    class="lazyload flex-shrink-0 object-contain h-16"
-                    src={square}
-                  />
-                </a>
-                <a href="https://withcherry.com/">
-                  <img
-                    class="lazyload flex-shrink-0 object-contain h-16"
-                    src={cherry}
-                  />
-                </a>
-              </div>
             </div>
           </main>
           <footer class="mx-auto max-w-7xl px-6 lg:px-8 mt-24 w-full sm:mt-32 lg:mt-40">
