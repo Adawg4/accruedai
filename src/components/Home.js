@@ -85,7 +85,7 @@ export default function Home() {
           <main class="w-full flex-auto">
             <div class="mx-auto max-w-7xl px-6 lg:px-8 mt-24 sm:mt-32 md:mt-56">
               <div class="mx-auto max-w-2xl lg:max-w-none">
-                <h1 class="font-display text-5xl font-medium tracking-tight text-neutral-950 [text-wrap:balance] sm:text-7xl">
+                <h1 class="font-display text-5xl font-medium tracking-tight text-neutral-950 [text-wrap:balance] sm:text-6xl">
                  Automated verifications for invoice financing
                 </h1>
                 <p class="mt-6 text-xl text-neutral-600">
